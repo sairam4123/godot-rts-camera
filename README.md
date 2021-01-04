@@ -1,5 +1,5 @@
 # godot-rts-camera
-A RTS Camera based on https://github.com/AmPhIbIaN26/rts-camera-godot/
+A RTS Camera based on https://github.com/AmPhIbIaN26/rts-camera-godot/ uses https://github.com/Federico-Ciuffardi/Godot-Touch-Input-Manager
 
 README.md of RTS Camera Script made by AmPhIbIaN26
 
