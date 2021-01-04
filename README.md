@@ -12,19 +12,17 @@ This script "plug and play", read [setup](#setup) section for detailed informati
 * Movement with cursor when at the edge of the screen, like some RTS games.
 * Panning left and right with 'Q' and 'E'.
 * Tilting up and down with 'R' and 'F'.
-* Zoom in and out with scroll wheel.
+* Zoom in and out with scroll wheel or 'Z' and 'X'
 * Point and look while pressing middle mouse and dragging.
 * Majority of the variables are exported to make tweaking, on the go, easy.
+* Diagonal movement.
+* Using Actions to get inputs. (If you want to change the keys, go to Project Settings/InputMap and change the actions.
 
 ### Demo
 The DEMO.mp4 video in the root folder shows the working of this script, there is also a Example.tscn in the Example folder, to try it out for your self before getting deep into it. 
 
 ### To-do/Upcoming features
- * Add diagonal movement.
  * Add follow camera.
- * Add de-accelaration to tilting in tilt_node.
- * Make zooming smooth
- * Configurable Keys
  * Jump to location
  * Reset to normal orientation
  * (Optional) Picture in picture
